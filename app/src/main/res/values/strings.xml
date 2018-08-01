@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Auth</string>
+    <string name="emailText">test@test.com</string>
+    <string name="passtext">qwerty</string>
+    <string name="usertext">Jujakisa</string>
+    <string name="RegButton">Registration</string>
+</resources>
